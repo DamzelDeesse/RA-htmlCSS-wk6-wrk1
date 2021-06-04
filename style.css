@@ -106,7 +106,7 @@ body section > :nth-child(3) button {
 
 /* ---  Desktop Styles --- */
 
-@media all and (min-width: 991 px) {
+@media all and (max-width: 991 px) {
     body {
         background: #fff;
         display: flex;
